@@ -15,6 +15,6 @@ CS50P is an entry-level course that explores key programming concepts, including
 
 This repository serves as a record of my progress, demonstrating problem-solving techniques and foundational coding skills essential for further exploration in computer science.
 
-<h2>TConnect with Me</h2>
+<h2>Connect with Me</h2>
 If you have suggestions, ideas, or just want to say hi, feel free to reach out or open an issue!
 <h3>Happy coding! 😊</h3>
